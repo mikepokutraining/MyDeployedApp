@@ -1,0 +1,9 @@
+We can create our own API endpoints.
+
+First we create a new folder:
+/pages/api
+
+Under api, we can create any number of js files, each being its own endpoint.
+We create user.js
+
+Look inside this file for further doc.

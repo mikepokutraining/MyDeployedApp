@@ -1,0 +1,17 @@
+/* 
+CSS tied to our custom container component
+
+The root font size exists somewhere externally. Let's say it's 16px
+Then 1 rem  is equal 16px
+If we keep everything in rem, we can scale the design no matter what font is used
+
+The act of setting max width automatically creates a centered container.
+
+*/
+
+.container {
+    max-width: 66rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+    border: 1px solid red;  
+ }

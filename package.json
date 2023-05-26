@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "next": "^13.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "show-first-page",
+  "version": "1.0.0",
+  "description": "Show first page",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "20.2.3",
+    "@types/react": "18.2.7",
+    "typescript": "5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Mike Poku",
+  "license": "ISC"
+}
